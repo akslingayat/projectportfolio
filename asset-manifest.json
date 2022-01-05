@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/projectportfolio/static/css/main.1f1e11a8.chunk.css",
-    "main.js": "/projectportfolio/static/js/main.9a825b83.chunk.js",
-    "main.js.map": "/projectportfolio/static/js/main.9a825b83.chunk.js.map",
+    "main.js": "/projectportfolio/static/js/main.cb9e64fb.chunk.js",
+    "main.js.map": "/projectportfolio/static/js/main.cb9e64fb.chunk.js.map",
     "runtime-main.js": "/projectportfolio/static/js/runtime-main.3f05b7b9.js",
     "runtime-main.js.map": "/projectportfolio/static/js/runtime-main.3f05b7b9.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/projectportfolio/static/css/2.e7f3f9d7.chunk.css",
@@ -17,21 +17,15 @@
     "static/media/Lingayat_Resume_01.01.22.57cd2248.pdf": "/projectportfolio/static/media/Lingayat_Resume_01.01.22.57cd2248.pdf",
     "static/media/about.aee0f771.png": "/projectportfolio/static/media/about.aee0f771.png",
     "static/media/avatar.5852f40f.svg": "/projectportfolio/static/media/avatar.5852f40f.svg",
-    "static/media/blog.52102140.png": "/projectportfolio/static/media/blog.52102140.png",
-    "static/media/chatify.9373edda.png": "/projectportfolio/static/media/chatify.9373edda.png",
-    "static/media/codeEditor.ba945879.png": "/projectportfolio/static/media/codeEditor.ba945879.png",
-    "static/media/emotion.e92e314a.jpeg": "/projectportfolio/static/media/emotion.e92e314a.jpeg",
     "static/media/style.css": "/projectportfolio/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/projectportfolio/static/media/home-main.541f8179.svg",
-    "static/media/leaf.4c15d6eb.png": "/projectportfolio/static/media/leaf.4c15d6eb.png",
-    "static/media/meetup.e8cccdd8.png": "/projectportfolio/static/media/meetup.e8cccdd8.png",
-    "static/media/suicide.b72f1f9f.png": "/projectportfolio/static/media/suicide.b72f1f9f.png"
+    "static/media/meetup.e8cccdd8.png": "/projectportfolio/static/media/meetup.e8cccdd8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3f05b7b9.js",
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.4ac1cabc.chunk.js",
     "static/css/main.1f1e11a8.chunk.css",
-    "static/js/main.9a825b83.chunk.js"
+    "static/js/main.cb9e64fb.chunk.js"
   ]
 }
