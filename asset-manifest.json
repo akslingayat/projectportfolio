@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/projectportfolio/static/css/main.1f1e11a8.chunk.css",
-    "main.js": "/projectportfolio/static/js/main.7248495a.chunk.js",
-    "main.js.map": "/projectportfolio/static/js/main.7248495a.chunk.js.map",
-    "runtime-main.js": "/projectportfolio/static/js/runtime-main.8291792f.js",
-    "runtime-main.js.map": "/projectportfolio/static/js/runtime-main.8291792f.js.map",
+    "main.js": "/projectportfolio/static/js/main.15ced003.chunk.js",
+    "main.js.map": "/projectportfolio/static/js/main.15ced003.chunk.js.map",
+    "runtime-main.js": "/projectportfolio/static/js/runtime-main.3f05b7b9.js",
+    "runtime-main.js.map": "/projectportfolio/static/js/runtime-main.3f05b7b9.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/projectportfolio/static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.518905e0.chunk.js": "/projectportfolio/static/js/2.518905e0.chunk.js",
-    "static/js/2.518905e0.chunk.js.map": "/projectportfolio/static/js/2.518905e0.chunk.js.map",
-    "static/js/3.f0e5a195.chunk.js": "/projectportfolio/static/js/3.f0e5a195.chunk.js",
-    "static/js/3.f0e5a195.chunk.js.map": "/projectportfolio/static/js/3.f0e5a195.chunk.js.map",
+    "static/js/2.c237953c.chunk.js": "/projectportfolio/static/js/2.c237953c.chunk.js",
+    "static/js/2.c237953c.chunk.js.map": "/projectportfolio/static/js/2.c237953c.chunk.js.map",
+    "static/js/3.092e264c.chunk.js": "/projectportfolio/static/js/3.092e264c.chunk.js",
+    "static/js/3.092e264c.chunk.js.map": "/projectportfolio/static/js/3.092e264c.chunk.js.map",
     "index.html": "/projectportfolio/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/projectportfolio/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.1f1e11a8.chunk.css.map": "/projectportfolio/static/css/main.1f1e11a8.chunk.css.map",
-    "static/js/2.518905e0.chunk.js.LICENSE.txt": "/projectportfolio/static/js/2.518905e0.chunk.js.LICENSE.txt",
-    "static/media/Soumyajit-Behera.394b6e42.pdf": "/projectportfolio/static/media/Soumyajit-Behera.394b6e42.pdf",
+    "static/js/2.c237953c.chunk.js.LICENSE.txt": "/projectportfolio/static/js/2.c237953c.chunk.js.LICENSE.txt",
+    "static/media/Lingayat_Resume_01.01.22.57cd2248.pdf": "/projectportfolio/static/media/Lingayat_Resume_01.01.22.57cd2248.pdf",
     "static/media/about.aee0f771.png": "/projectportfolio/static/media/about.aee0f771.png",
     "static/media/avatar.5852f40f.svg": "/projectportfolio/static/media/avatar.5852f40f.svg",
     "static/media/blog.52102140.png": "/projectportfolio/static/media/blog.52102140.png",
@@ -27,10 +27,10 @@
     "static/media/suicide.b72f1f9f.png": "/projectportfolio/static/media/suicide.b72f1f9f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8291792f.js",
+    "static/js/runtime-main.3f05b7b9.js",
     "static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.518905e0.chunk.js",
+    "static/js/2.c237953c.chunk.js",
     "static/css/main.1f1e11a8.chunk.css",
-    "static/js/main.7248495a.chunk.js"
+    "static/js/main.15ced003.chunk.js"
   ]
 }
