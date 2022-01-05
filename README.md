@@ -2,32 +2,13 @@
   Portfolio Website - v2.0<br/>
   <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
-<br/>
+### Read Me
+This website project is my first attempt at implementing new react concepts I have learned. This website serves as a portfolio to host my most recent projects and give a short intro to who I am and what I find interesting.
 
-<center>
+## Important!
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+This website is based off of Soumyajit4419 template (https://github.com/soumyajit4419/Portfolio). I will be using this template while I develop my own.
 
 ## Built With
 
