@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
+import { BsDot } from "react-icons/bs";
 
 function AboutCard() {
   return (
@@ -9,19 +10,19 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             My name is <span className="purple">Akshay Lingayat </span>
-            <p> I currently work as a Managing Consultant @IBM and am looking to transition into the product management space.</p>
+            <p> I currently work as a Managing Consultant @IBM Consulting and am looking to transition into the product management space.</p>
             <br />
-            Apart from playing around with new tech and serving as associate product manager for several products I also like to:
+            Apart from playing around with new tech and managing several programs I also like to:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Excercise - seriously any sport, you name it I'm game
+              <BsDot /> Excercise - seriously any sport, you name it I'm game
             </li>
             <li className="about-activity">
-              <ImPointRight /> Eating, lowkey plug @CheatDayDC
+              <BsDot /> Eating: @CheatDayDC
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading self-improvement books
+              <BsDot /> Reading self-improvement books
             </li>
           </ul>
 
